@@ -44,15 +44,15 @@
 ### 📚 Library Management System
 📁 [`/Library-Management-System`](./Library-Management-System)
 
-A web-based library automation app to manage books, transactions, and patrons using **PHP + MySQL**.
 
-**Features:**
-- 🧾 Track issued/returned books with receipts  
-- 📘 Manage patrons and book inventory  
-- 📈 Backend schema and config files included  
-- ✅ Responsive UI with HTML/CSS + JavaScript
+A **web-based management system** built specifically for **librarians** to handle book inventory, track transactions, and manage patron records.
 
-> 📌 View the full project inside the `Library-Management-System` folder.
+**Key Features:**
+- 🧾 Record check-ins and check-outs of books  
+- 📘 Add, edit, or remove patron and book entries  
+- 🔐 Admin-only access (for librarian use only)  
+- 🗃️ MySQL-powered backend with structured schema  
+- 🎨 Built using PHP, HTML, CSS, JavaScript> 📌 View the full project inside the `Library-Management-System` folder.
 
 ---
 
