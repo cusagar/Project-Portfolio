@@ -1,67 +1,93 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Umanandan%20Sagar%20Chukka&fontSize=35&fontAlign=center&fontColor=ffffff)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h3 align="center">🚀 Computer Science Graduate Student | Full-Stack Dev | Deep Learning Explorer | Cloud Enthusiast ☁️</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Umanandan Sagar Chukka</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;Cloud-native+coder;ML/AI+enthusiast;Always+Learning&center=true&width=440&height=45">
-</p>
+<h3 align="center">Graduate CS Student | Full-Stack Developer | Deep Learning Enthusiast | Cloud Explorer ☁️</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Umanandan Sagar**, currently pursuing my Master's in Computer Science at **UNC Wilmington (GPA: 3.8)**.  
-I'm a passionate full-stack developer with experience in building web apps, deploying ML models, and scaling software on cloud platforms like **AWS** and **Docker**.
+🎓 I'm currently pursuing my **M.S. in Computer Science** at **UNC Wilmington**, maintaining a GPA of 3.8.  
+💼 I’m also a **Teaching Assistant**, mentoring 30+ students and helping shape future developers.
 
-- 🎓 Teaching Assistant @ UNCW (helping 30+ students)
-- 💻 Projects in PHP, Deep Learning, and Computer Vision
-- 🔬 Exploring model deployment and AI on edge devices
-- 💬 Let’s talk code, clouds, or caffeinated debugging
+🔭 I love working on:
+- Full-stack web apps using PHP, JavaScript, and MySQL  
+- Deep learning projects with TensorFlow & Keras  
+- Cloud-native systems using Docker & AWS  
+- Solving real-world problems with code
 
-📫 **Reach me** → [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
-
----
-
-### 🛠️ Tech Toolbox
-
-#### 🧠 Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-
-#### 🔧 Frameworks & Tools
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+📫 Reach me at: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20>
 
-#### 📚 [Library Management System](./Library-Management-System)
-A full-stack PHP web app for managing library book inventory, check-ins/outs, and patron records.
+### Languages:
+| Python | Java | PHP | SQL | TypeScript | HTML | CSS | JavaScript |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> |
 
-#### 🛰️ [CAFO Detection Using Deep Learning](./CAFO-Detection)
-An AI-powered aerial imagery system using **MobileNetV3** and **YOLOv8** to detect and classify CAFOs in North Carolina.
+### Frameworks & Libraries:
+| TensorFlow | Keras | Node.js | Express | Spring Boot | Bootstrap | OpenCV |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60"/> |
+
+### Tools & Platforms:
+| GitHub | Git | AWS | Docker | VS Code | MongoDB | Figma |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="40"/> |
 
 ---
 
-### 📊 GitHub Stats
+## 📂 Projects
+
+### 📚 Library Management System
+
+📁 Folder: `./Library-Management-System`
+
+This is a **PHP-based web application** to help library staff manage books, patrons, and transactions.  
+It includes fully working CRUD operations, user login, check-in/check-out workflows, and database integration with MySQL.
+
+**Features:**
+- 🧾 Book issue/return with receipts  
+- 📚 Patron management (add/remove/edit)  
+- 📖 Book database with availability status  
+- ✅ Schema and config files included
+
+> 📌 You can explore the full code in the `Library-Management-System` folder of this repository.
+
+---
+
+### 🛰️ CAFO Detection with Deep Learning
+
+📁 Folder: `./CAFO-Detection`
+
+This project uses deep learning to detect **Concentrated Animal Feeding Operations (CAFOs)** using high-res aerial imagery.
+
+I used **MobileNetV3** for classification and **YOLOv8** for object detection.  
+The dataset included 21,000+ annotated images from the **NC-CAFO aerial dataset**.
+
+**Notebooks Included:**
+- `SagarProject.ipynb`: Fine-tuned MobileNetV3 + classification metrics  
+- `YOLO.ipynb`: Object detection pipeline using Ultralytics YOLOv8  
+
+**Technologies:**
+- Python, TensorFlow, Keras, OpenCV, Matplotlib, scikit-learn
+
+> 📌 You can explore all notebooks and code in the `CAFO-Detection` folder of this repository.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-> ⚡ *"The best developers don't just write code — they build value, solve problems, and keep learning."*
-
+> 🚀 “Building scalable systems, solving real problems, and learning every day.”
