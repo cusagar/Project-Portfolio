@@ -1,20 +1,20 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/31/c6/76/31c67653fce36050150e8a6f840d806c.gif" width="100%" alt="Dev banner">
+</p>
+
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Umanandan Sagar Chukka
 </h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="600" alt="coding">
-</p>
 
 <h3 align="center">Graduate CS Student | Full-Stack Developer | Deep Learning Enthusiast | Cloud Explorer ☁️</h3>
 
 ---
 
-- 🎓 Pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)
-- 👨‍🏫 Working as a **Teaching Assistant** helping 30+ students
-- 🌱 Exploring **ML Ops**, **AWS**, and **model deployment**
-- 💬 Ask me about **Python, PHP, TensorFlow, Docker, or AWS**
-- 📫 Reach me at **[sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)**
+- 🎓 Pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
+- 👨‍🏫 Working as a **Teaching Assistant**, mentoring 30+ students  
+- 🌱 Currently exploring **MLOps**, **Docker**, and **AWS Lambda**  
+- 💬 Ask me about **Python, PHP, TensorFlow, or scalable backend systems**  
+- 📫 Reach me: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
 
 ---
 
@@ -44,34 +44,29 @@
 ### 📚 Library Management System
 📁 [`/Library-Management-System`](./Library-Management-System)
 
-A PHP-based web application that allows librarians to manage books, users, and transactions in a clean and efficient UI.
+A PHP-based web application that helps librarians manage books, patrons, and transactions efficiently.
 
-**Features:**
-- CRUD operations for books and patrons
-- Check-in and check-out functionality with receipts
-- Clean interface using HTML, CSS, and JavaScript
-- MySQL database for full backend support
-
-> 🔍 **Explore this project in the `Library-Management-System` folder**
+**Main Features:**
+- Book issuing and returning
+- Receipt generation and database tracking
+- Add/edit/delete patrons and book records
+- MySQL + PHP backend, HTML/CSS frontend
 
 ---
 
-### 🛰️ CAFO Detection with Deep Learning
+### 🛰️ CAFO Detection Using Deep Learning
 📁 [`/CAFO-Detection`](./CAFO-Detection)
 
-A deep learning project that detects **Concentrated Animal Feeding Operations (CAFOs)** using aerial imagery.
+AI-powered aerial image analysis for detecting **CAFOs** using TensorFlow and YOLOv8.
 
-**Contents:**
-- `SagarProject.ipynb`: Classification using MobileNetV3
-- `YOLO.ipynb`: Object detection with YOLOv8 + OpenCV
+**Included Notebooks:**
+- `SagarProject.ipynb` – Classification with MobileNetV3
+- `YOLO.ipynb` – Object detection with YOLOv8
 
 **Highlights:**
-- 21K+ high-res aerial images
-- Data augmentation & transfer learning
-- Model evaluation with accuracy, F1-score, ROC-AUC
-- Built for environmental monitoring + enforcement
-
-> 🔍 **Explore this project in the `CAFO-Detection` folder**
+- Dataset: 21K+ annotated aerial images
+- Evaluation: F1-Score, AUC-ROC, accuracy
+- Tools: TensorFlow, OpenCV, scikit-learn
 
 ---
 
@@ -81,6 +76,3 @@ A deep learning project that detects **Concentrated Animal Feeding Operations (C
   <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-> 🚀 *"Solving real-world problems with clean code, deep learning, and coffee."*
