@@ -1,53 +1,67 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Umanandan%20Sagar%20Chukka&fontSize=35&fontAlign=center&fontColor=ffffff)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Umanandan Sagar Chukka</h1>
-
-<h3 align="center">Graduate CS Student | Full-Stack Developer | Deep Learning Enthusiast | Cloud Engineer ☁️</h3>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-
-- 🔭 I’m currently pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
-- 🧠 Passionate about **AI, full-stack apps, and cloud architecture**
-- 👨‍🏫 Working as a **Teaching Assistant** helping 30+ students grow
-- 🌱 Currently exploring **ML model deployment, Docker, and AWS**
-- 💬 Ask me about **Python, PHP, TensorFlow, or setting up scalable apps**
-- 📫 How to reach me: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
-
----
-
-## 🛠️ Languages and Tools
-
-### 🧑‍💻 Languages
-| Python | Java | PHP | SQL | HTML | CSS | JavaScript |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
-
-### ⚙️ Frameworks, Libraries & Tools
-| TensorFlow | Keras | Node.js | Spring Boot | Docker | AWS | Git |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> |
-
----
-
-## 📂 Projects
-
-### 📚 [Library Management System](./Library-Management-System)
-Web-based PHP app to manage books, patrons, transactions, and reshelving.
-
-### 🛰️ [CAFO Detection with Deep Learning](./CAFO-Detection)
-Trained MobileNetV3 and YOLOv8 to detect CAFOs from aerial images (21k+ samples).
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">🚀 Computer Science Graduate Student | Full-Stack Dev | Deep Learning Explorer | Cloud Enthusiast ☁️</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cusagar&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;Cloud-native+coder;ML/AI+enthusiast;Always+Learning&center=true&width=440&height=45">
 </p>
 
 ---
 
-## 🙌 Thanks for stopping by!
+### 👨‍💻 About Me
+
+Hi, I'm **Umanandan Sagar**, currently pursuing my Master's in Computer Science at **UNC Wilmington (GPA: 3.8)**.  
+I'm a passionate full-stack developer with experience in building web apps, deploying ML models, and scaling software on cloud platforms like **AWS** and **Docker**.
+
+- 🎓 Teaching Assistant @ UNCW (helping 30+ students)
+- 💻 Projects in PHP, Deep Learning, and Computer Vision
+- 🔬 Exploring model deployment and AI on edge devices
+- 💬 Let’s talk code, clouds, or caffeinated debugging
+
+📫 **Reach me** → [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
+
+---
+
+### 🛠️ Tech Toolbox
+
+#### 🧠 Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
+
+#### 🔧 Frameworks & Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+---
+
+### 📂 Featured Projects
+
+#### 📚 [Library Management System](./Library-Management-System)
+A full-stack PHP web app for managing library book inventory, check-ins/outs, and patron records.
+
+#### 🛰️ [CAFO Detection Using Deep Learning](./CAFO-Detection)
+An AI-powered aerial imagery system using **MobileNetV3** and **YOLOv8** to detect and classify CAFOs in North Carolina.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+> ⚡ *"The best developers don't just write code — they build value, solve problems, and keep learning."*
 
