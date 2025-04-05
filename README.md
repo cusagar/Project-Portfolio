@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/31/c6/76/31c67653fce36050150e8a6f840d806c.gif" width="100%" alt="Dev banner">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="banner">
 </p>
 
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Umanandan Sagar Chukka
 </h1>
 
-<h3 align="center">Graduate CS Student | Full-Stack Developer | Deep Learning Enthusiast | Cloud Explorer ☁️</h3>
+<h3 align="center">🎓 CS Graduate Student | 💻 Full-Stack Dev | 🤖 Deep Learning Explorer | ☁️ Cloud Enthusiast</h3>
 
 ---
 
-- 🎓 Pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
-- 👨‍🏫 Working as a **Teaching Assistant**, mentoring 30+ students  
-- 🌱 Currently exploring **MLOps**, **Docker**, and **AWS Lambda**  
-- 💬 Ask me about **Python, PHP, TensorFlow, or scalable backend systems**  
+- 🎓 Currently pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
+- 👨‍🏫 Working as a **Teaching Assistant** (mentoring 30+ students)  
+- 🌱 Exploring **MLOps, Model Deployment, AWS Lambda, Docker**  
+- 💬 Ask me about **Python, PHP, TensorFlow, Cloud Architecture**  
 - 📫 Reach me: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
 
 ---
@@ -44,29 +44,33 @@
 ### 📚 Library Management System
 📁 [`/Library-Management-System`](./Library-Management-System)
 
-A PHP-based web application that helps librarians manage books, patrons, and transactions efficiently.
+A web-based library automation app to manage books, transactions, and patrons using **PHP + MySQL**.
 
-**Main Features:**
-- Book issuing and returning
-- Receipt generation and database tracking
-- Add/edit/delete patrons and book records
-- MySQL + PHP backend, HTML/CSS frontend
+**Features:**
+- 🧾 Track issued/returned books with receipts  
+- 📘 Manage patrons and book inventory  
+- 📈 Backend schema and config files included  
+- ✅ Responsive UI with HTML/CSS + JavaScript
+
+> 📌 View the full project inside the `Library-Management-System` folder.
 
 ---
 
 ### 🛰️ CAFO Detection Using Deep Learning
 📁 [`/CAFO-Detection`](./CAFO-Detection)
 
-AI-powered aerial image analysis for detecting **CAFOs** using TensorFlow and YOLOv8.
+An AI-based system to detect **Concentrated Animal Feeding Operations** from aerial imagery using **MobileNetV3** and **YOLOv8**.
 
-**Included Notebooks:**
-- `SagarProject.ipynb` – Classification with MobileNetV3
-- `YOLO.ipynb` – Object detection with YOLOv8
+**Files Included:**
+- `SagarProject.ipynb`: CAFO image classification (MobileNetV3 + Keras)
+- `YOLO.ipynb`: Object detection using YOLOv8 + OpenCV
 
 **Highlights:**
-- Dataset: 21K+ annotated aerial images
-- Evaluation: F1-Score, AUC-ROC, accuracy
-- Tools: TensorFlow, OpenCV, scikit-learn
+- 21,000+ labeled aerial images
+- Augmentation, transfer learning, fine-tuning
+- Evaluation metrics: Precision, F1, AUC-ROC
+
+> 📌 Explore this project in the `CAFO-Detection` folder.
 
 ---
 
