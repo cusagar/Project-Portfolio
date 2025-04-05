@@ -1,77 +1,53 @@
-# 👋 Hi, I'm Umanandan Sagar Chukka
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-Welcome to my GitHub portfolio! I'm a passionate and results-driven graduate student pursuing a **Master’s in Computer Science** at the University of North Carolina Wilmington (UNCW), with a cumulative **GPA of 3.8**.
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Umanandan Sagar Chukka</h1>
 
-With strong foundations in **software engineering**, **full-stack development**, and **AI-powered systems**, I enjoy solving real-world problems through clean, scalable, and intelligent code. I believe in writing testable, maintainable software while working within Agile teams to deliver impactful solutions.
+<h3 align="center">Graduate CS Student | Full-Stack Developer | Deep Learning Enthusiast | Cloud Engineer ☁️</h3>
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
-## 🔧 Technical Skills
-
-**Languages:** Python, Java, C, PHP, SQL, HTML, CSS, JavaScript, TypeScript  
-**Frameworks/Libraries:** TensorFlow, Keras, Node.js, Express.js, Spring Boot, Pandas, NumPy, Matplotlib, scikit-learn  
-**Databases:** MySQL, PostgreSQL, MongoDB, SQL Server  
-**Cloud/DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes  
-**Tools:** Git, VS Code, PyCharm, REST APIs, GraphQL, JSON
-
----
-
-## 💼 Work Experience
-
-**Teaching Assistant — University of North Carolina Wilmington**  
-*Aug 2023 – Present*  
-- Supported over 30+ students in coursework, assignments, and labs.
-- Collaborated with professors to improve curriculum delivery and student outcomes.
+- 🔭 I’m currently pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
+- 🧠 Passionate about **AI, full-stack apps, and cloud architecture**
+- 👨‍🏫 Working as a **Teaching Assistant** helping 30+ students grow
+- 🌱 Currently exploring **ML model deployment, Docker, and AWS**
+- 💬 Ask me about **Python, PHP, TensorFlow, or setting up scalable apps**
+- 📫 How to reach me: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Languages and Tools
+
+### 🧑‍💻 Languages
+| Python | Java | PHP | SQL | HTML | CSS | JavaScript |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> |
+
+### ⚙️ Frameworks, Libraries & Tools
+| TensorFlow | Keras | Node.js | Spring Boot | Docker | AWS | Git |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> |
+
+---
+
+## 📂 Projects
 
 ### 📚 [Library Management System](./Library-Management-System)
+Web-based PHP app to manage books, patrons, transactions, and reshelving.
 
-A full-featured **web-based application** to manage library operations like book check-ins, check-outs, and patron management. Built using **PHP, MySQL, HTML/CSS, and JavaScript**.
-
-**Key Features:**
-- Add/edit/delete books and patrons
-- Issue & return book transactions
-- Receipt generation and reshelving tracking
-- Organized UI for both patrons and librarians
-
-**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+### 🛰️ [CAFO Detection with Deep Learning](./CAFO-Detection)
+Trained MobileNetV3 and YOLOv8 to detect CAFOs from aerial images (21k+ samples).
 
 ---
 
-### 🛰️ [CAFO Detection Using Deep Learning](./CAFO-Detection)
+## 📊 GitHub Stats
 
-An AI-powered system to detect **Concentrated Animal Feeding Operations (CAFOs)** using high-resolution aerial imagery. Built with **TensorFlow, Keras, OpenCV**, and pretrained deep learning models like MobileNetV3 and YOLOv8.
-
-**Key Features:**
-- Fine-tuned MobileNetV3 for multi-class CAFO classification
-- YOLOv8-based object detection notebook
-- Trained on 21,000+ aerial images
-- Evaluated using precision, recall, F1-score, and AUC-ROC
-- Dataset challenges handled: class imbalance, occlusions, environmental variance
-
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, scikit-learn, Pandas, Matplotlib
-
-📎 *[Optional]* Link to dataset: [Download CAFO Dataset](https://your-link.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cusagar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧠 Certifications
+## 🙌 Thanks for stopping by!
 
-- **AWS Cloud Foundations** – AWS Academy  
-- **Salesforce Certified Administrator (SCA)**  
-- **Complete AI & ML Bootcamp**  
-- **The Complete 2024 Web Development Bootcamp**
-
----
-
-## 📫 Connect with Me
-
-- ✉️ Email: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-Thanks for visiting! Feel free to explore each folder for source code and documentation. If you’re hiring or collaborating, I’d love to connect!
