@@ -1,17 +1,19 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Umanandan Sagar Chukka
+</h1>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Umanandan Sagar Chukka</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="600" alt="coding">
+</p>
 
 <h3 align="center">Graduate CS Student | Full-Stack Developer | Deep Learning Enthusiast | Cloud Explorer ☁️</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-
 ---
 
-- 🔭 I'm currently pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)
+- 🎓 Pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)
 - 👨‍🏫 Working as a **Teaching Assistant** helping 30+ students
-- 🌱 Exploring cloud-native deployments and ML ops
-- 💬 Ask me about **Python, PHP, TensorFlow, Docker, and AWS**
+- 🌱 Exploring **ML Ops**, **AWS**, and **model deployment**
+- 💬 Ask me about **Python, PHP, TensorFlow, Docker, or AWS**
 - 📫 Reach me at **[sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)**
 
 ---
@@ -42,34 +44,34 @@
 ### 📚 Library Management System
 📁 [`/Library-Management-System`](./Library-Management-System)
 
-A complete PHP-based web application designed to automate and manage a library’s inventory and user transactions.
+A PHP-based web application that allows librarians to manage books, users, and transactions in a clean and efficient UI.
 
-**🛠 Features:**
-- Book check-in/check-out with transaction tracking  
-- Patron management (add/edit/delete users)  
-- Searchable book catalog  
-- Fully connected to a MySQL database  
-- Uses HTML, CSS, JS for frontend with PHP backend
+**Features:**
+- CRUD operations for books and patrons
+- Check-in and check-out functionality with receipts
+- Clean interface using HTML, CSS, and JavaScript
+- MySQL database for full backend support
 
-> ✅ Full code available inside the `/Library-Management-System` folder.
+> 🔍 **Explore this project in the `Library-Management-System` folder**
 
 ---
 
-### 🛰️ CAFO Detection Using Deep Learning
+### 🛰️ CAFO Detection with Deep Learning
 📁 [`/CAFO-Detection`](./CAFO-Detection)
 
-A deep learning-powered system to detect **Concentrated Animal Feeding Operations (CAFOs)** from aerial imagery using classification and object detection.
+A deep learning project that detects **Concentrated Animal Feeding Operations (CAFOs)** using aerial imagery.
 
-**📦 Notebooks Included:**
-- `SagarProject.ipynb`: Classification with MobileNetV3, Keras
+**Contents:**
+- `SagarProject.ipynb`: Classification using MobileNetV3
 - `YOLO.ipynb`: Object detection with YOLOv8 + OpenCV
 
-**📈 Techniques Used:**
-- Transfer learning, augmentation, and fine-tuning
-- Metrics: Accuracy, F1-score, ROC-AUC
-- Tools: TensorFlow, OpenCV, Matplotlib, scikit-learn
+**Highlights:**
+- 21K+ high-res aerial images
+- Data augmentation & transfer learning
+- Model evaluation with accuracy, F1-score, ROC-AUC
+- Built for environmental monitoring + enforcement
 
-> ✅ Code & notebooks inside the `/CAFO-Detection` folder
+> 🔍 **Explore this project in the `CAFO-Detection` folder**
 
 ---
 
@@ -79,3 +81,6 @@ A deep learning-powered system to detect **Concentrated Animal Feeding Operation
   <img src="https://github-readme-stats.vercel.app/api?username=cusagar&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusagar&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+---
+> 🚀 *"Solving real-world problems with clean code, deep learning, and coffee."*
