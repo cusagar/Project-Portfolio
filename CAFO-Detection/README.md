@@ -1,94 +1,87 @@
-A🛰️ Automated Detection of CAFOs Using Deep Learning & Computer Vision
-Welcome to my CAFO (Concentrated Animal Feeding Operations) detection project using deep learning and aerial imagery. This project combines the power of image classification and object detection to identify CAFOs for environmental monitoring and regulatory use.
+# 🛰️ Automated Detection of CAFOs Using Deep Learning & Computer Vision
 
-📌 Overview
+Welcome to my **CAFO (Concentrated Animal Feeding Operations)** detection project using deep learning and aerial imagery.  
+This project combines the power of **image classification** and **object detection** to identify CAFOs for environmental monitoring and regulatory use.
+
+---
+
+## 📌 Overview
+
 This project leverages two deep learning pipelines:
 
-📘 Image Classification using MobileNetV3 — SagarProject.ipynb
+- 📘 **Image Classification** using `MobileNetV3` — `SagarProject.ipynb`
+- 📗 **Object Detection** using `YOLOv8` — `YOLO.ipynb`
 
-📗 Object Detection using YOLOv8 — YOLO.ipynb
+Each model provides a different angle on evaluating aerial images and contributes toward robust CAFO detection.
 
-Both models provide complementary insight into the aerial imagery and enhance robustness in CAFO detection.
+---
 
-🧠 Project Breakdown
-📘 SagarProject.ipynb – MobileNetV3 Image Classification
-Trained a Convolutional Neural Network (CNN) to classify aerial images into CAFO or Non-CAFO using MobileNetV3.
+## 🧠 Project Breakdown
 
-✅ Steps Implemented:
+### 📘 SagarProject.ipynb – MobileNetV3 Image Classification
 
-📂 Dataset path: /content/drive/MyDrive/Dataset/cafo_model_training_data
+Trains a **CNN (Convolutional Neural Network)** to classify aerial images into **CAFO** or **Non-CAFO**.
 
-📦 Unzipped .tar.gz aerial image archives
+**Steps Implemented:**
 
-🧹 Preprocessed & normalized images with OpenCV and TensorFlow
+- 📂 Dataset: `/content/drive/MyDrive/Dataset/cafo_model_training_data`
+- 📦 Unzipped `.tar.gz` image archives
+- 🧹 Preprocessing with TensorFlow & OpenCV
+- 🧠 Fine-tuned MobileNetV3 pretrained on ImageNet
+- 🔁 Data Augmentation and Hyperparameter Tuning
+- 📈 Evaluation: AUC-ROC, F1-score, Precision, Recall
+- 💾 Saved model as `MobileNetV3.h5`
+- 🖼️ Inference images saved to: `/yolov8-CAFOS/inference/`
 
-🧠 Fine-tuned MobileNetV3 (pre-trained on ImageNet)
+**Outputs:**
 
-⚙️ Data Augmentation, Early Stopping & Hyperparameter Tuning
+- ✅ `MobileNetV3.h5` classification model
+- 📊 Accuracy metrics and confusion matrix
+- 🖼️ Labeled test images
 
-📈 Evaluated model: AUC-ROC, F1-score, Recall, Precision
+---
 
-💾 Saved model as MobileNetV3.h5
+### 📗 YOLO.ipynb – YOLOv8 Object Detection
 
-📸 Generated inference predictions and saved to: /yolov8-CAFOS/inference/
+This notebook applies YOLOv8 to detect and localize CAFOs in aerial images using **bounding boxes**.
 
-📤 Outputs:
+**Steps Implemented:**
 
-✅ MobileNetV3.h5 classification model
+- 🔧 Dataset config YAML: `/data/cafo.yaml`
+- 🏷️ Labels from: `/split_by_class/`
+- 🔁 Converted CSV labels to YOLO format
+- ✂️ Split into train, val, and test sets
+- 🧠 Trained YOLOv8 from scratch
+- 💾 Saved best weights as `best.pt`
+- 🖼️ Inferred bounding boxes on test images
+- 📤 Visual results saved to: `/yolov8-CAFOS/inference/`
 
-📊 Accuracy metrics and confusion matrix
+**Outputs:**
 
-🖼️ Test images with predicted class labels
+- ✅ `best.pt` trained YOLOv8 model
+- 📸 Prediction visuals with bounding boxes
+- 📈 mAP, Precision, and Recall
 
-📗 YOLO.ipynb – YOLOv8 Object Detection
-This notebook uses YOLOv8 to detect CAFOs using bounding boxes in high-res aerial imagery.
+---
 
-✅ Steps Implemented:
+## 📥 Dataset
 
-🧾 YAML Config: /data/cafo.yaml
+**📌 [CAFO Training Dataset (Stanford RegLab)](https://reglab.stanford.edu/data/cafo-training-dataset/)**
 
-🏷️ Labels (YOLO format): /split_by_class/
+- 🌎 Source: Aerial imagery of North Carolina
+- 🖼️ Images: 21,768+ high-resolution images
+- 🗂️ Labels: Classification CSV + bounding boxes
 
-🔁 CSV → YOLO conversion for bounding boxes
+---
 
-✂️ Train/Val/Test data split
+## 🧰 Technologies Used
 
-🧠 Trained YOLOv8 model from scratch
+- **Languages:** Python  
+- **Frameworks:** TensorFlow, Keras, YOLOv8  
+- **Libraries:** OpenCV, NumPy, Pandas, Matplotlib, scikit-learn  
+- **Tools:** Google Colab, Git, Jupyter Notebooks  
 
-💾 Saved best weights: best.pt
-
-🖼️ Detected bounding boxes with confidence scores
-
-💾 Saved results: /yolov8-CAFOS/inference/
-
-📤 Outputs:
-
-✅ best.pt YOLOv8 detection model
-
-📸 Images with bounding boxes + class predictions
-
-📈 mAP, Precision, and Recall scores
-
-🖼️ Dataset
-📥 CAFO Training Dataset from Stanford RegLab
-
-🌍 Source: Aerial imagery from North Carolina
-
-📁 Size: 21,768+ high-resolution images
-
-📄 Annotations: Classification CSV + YOLO-style bounding boxes
-
-
-🧰 Technologies Used
-
-Languages: Python
-
-Frameworks: TensorFlow, Keras, YOLOv8
-
-Libraries: OpenCV, NumPy, Pandas, Matplotlib, scikit-learn
-
-Tools: Google Colab, Jupyter Notebooks, Git
-
+---
 
 ## 📊 Results Comparison
 
@@ -97,32 +90,29 @@ Tools: Google Colab, Jupyter Notebooks, Git
 | MobileNetV3 | Image Classification | CAFO vs Non-CAFO | Accuracy, AUC-ROC, F1-score, Recall      |
 | YOLOv8      | Object Detection     | Bounding Boxes   | mAP, Precision, Recall, Confidence Score |
 
- 
+---
 
-🖼️ Sample Visuals
+## 🖼️ Sample Visuals
 
-Below are examples of prediction results from the two models:
-
-
-
-
-**MobileNetV3 Classification Output:**
-
+**MobileNetV3 Classification Output:**  
 <img src="https://github.com/cusagar/Project-Portfolio/blob/main/CAFO-Detection/north-carolina_avery_187_287_6_1_0_17_-331_13881.jpeg?raw=true" width="400" alt="MobileNetV3 Prediction">
 
-**YOLOv8 Detection Output:**
-
+**YOLOv8 Detection Output:**  
 <img src="https://github.com/cusagar/Project-Portfolio/blob/main/CAFO-Detection/north-carolina_catawba_6427_287_6_1_0_17_-70_13765.jpeg?raw=true" width="400" alt="YOLOv8 Detection">
 
+---
 
+## 🙌 Acknowledgements
 
-🙌 Acknowledgements
+- 🗂️ Dataset credit: [Stanford RegLab](https://reglab.stanford.edu)
+- 📚 Developed as part of my graduate research in Computer Vision & Deep Learning
 
-Dataset credit: Stanford RegLab
+---
 
-Project developed as part of my graduate research in computer vision and deep learning
+## 👤 Author
 
-👤 Author
-
-Umanandan Sagar Chukka📧 Email: sagarus2022@gmail.com🔗 
+**Umanandan Sagar Chukka**  
+📧 Email: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)  
+🔗 LinkedIn: *Insert your LinkedIn*  
+💻 GitHub: *Insert your GitHub*
 
