@@ -1,88 +1,83 @@
-Automated Detection of CAFOs Using Deep Learning & Computer Vision 🛰️
-
+A🛰️ Automated Detection of CAFOs Using Deep Learning & Computer Vision
 Welcome to my CAFO (Concentrated Animal Feeding Operations) detection project using deep learning and aerial imagery. This project combines the power of image classification and object detection to identify CAFOs for environmental monitoring and regulatory use.
 
 📌 Overview
+This project leverages two deep learning pipelines:
 
-This project leverages two deep learning approaches:
+📘 Image Classification using MobileNetV3 — SagarProject.ipynb
 
-Image Classification using MobileNetV3 (SagarProject.ipynb)
+📗 Object Detection using YOLOv8 — YOLO.ipynb
 
-Object Detection using YOLOv8 (YOLO.ipynb)
-
-Each model provides a unique method for evaluating aerial images and contributes toward robust CAFO detection.
+Both models provide complementary insight into the aerial imagery and enhance robustness in CAFO detection.
 
 🧠 Project Breakdown
+📘 SagarProject.ipynb – MobileNetV3 Image Classification
+Trained a Convolutional Neural Network (CNN) to classify aerial images into CAFO or Non-CAFO using MobileNetV3.
 
-📘 SagarProject.ipynb – Image Classification using MobileNetV3
+✅ Steps Implemented:
 
-This notebook focuses on training a convolutional neural network to classify aerial images as CAFO or non-CAFO.
+📂 Dataset path: /content/drive/MyDrive/Dataset/cafo_model_training_data
 
-Steps Implemented:
+📦 Unzipped .tar.gz aerial image archives
 
-Dataset located in Google Drive at: /content/drive/MyDrive/Dataset/cafo_model_training_data
+🧹 Preprocessed & normalized images with OpenCV and TensorFlow
 
-Extracted and unzipped .tar.gz image archives.
+🧠 Fine-tuned MobileNetV3 (pre-trained on ImageNet)
 
-Processed and normalized images using TensorFlow and OpenCV.
+⚙️ Data Augmentation, Early Stopping & Hyperparameter Tuning
 
-Constructed a CNN using MobileNetV3 (pretrained on ImageNet).
+📈 Evaluated model: AUC-ROC, F1-score, Recall, Precision
 
-Fine-tuned the model using training data with data augmentation techniques.
+💾 Saved model as MobileNetV3.h5
 
-Evaluated model accuracy using Precision, Recall, F1-score, and AUC-ROC.
+📸 Generated inference predictions and saved to: /yolov8-CAFOS/inference/
 
-Saved the trained model as an .h5 file.
+📤 Outputs:
 
-Ran inference on test images and stored classified output in /content/drive/MyDrive/yolov8-CAFOS/inference/.
+✅ MobileNetV3.h5 classification model
 
-Output:
+📊 Accuracy metrics and confusion matrix
 
-MobileNetV3.h5 classification model (available upon request)
+🖼️ Test images with predicted class labels
 
-Accuracy scores and confusion matrix
+📗 YOLO.ipynb – YOLOv8 Object Detection
+This notebook uses YOLOv8 to detect CAFOs using bounding boxes in high-res aerial imagery.
 
-Folder containing test images with predicted class labels
+✅ Steps Implemented:
 
-📗 YOLO.ipynb – Object Detection using YOLOv8
+🧾 YAML Config: /data/cafo.yaml
 
-This notebook handles spatial detection using bounding boxes, training a YOLOv8 model on labeled aerial data.
+🏷️ Labels (YOLO format): /split_by_class/
 
-Steps Implemented:
+🔁 CSV → YOLO conversion for bounding boxes
 
-Dataset YAML config: /content/drive/MyDrive/yolov8-CAFOS/data/cafo.yaml
+✂️ Train/Val/Test data split
 
-Bounding box labels: /content/drive/MyDrive/yolov8-CAFOS/data/cafo_model_training_data/split_by_class/
+🧠 Trained YOLOv8 model from scratch
 
-Converted CSV annotations into YOLO format.
+💾 Saved best weights: best.pt
 
-Split dataset into training, validation, and test sets.
+🖼️ Detected bounding boxes with confidence scores
 
-Trained a YOLOv8 model from scratch.
+💾 Saved results: /yolov8-CAFOS/inference/
 
-Output the best model weights as best.pt.
+📤 Outputs:
 
-Inferred on test images to generate bounding boxes with class labels and confidence scores.
+✅ best.pt YOLOv8 detection model
 
-Saved visual detection results to: /content/drive/MyDrive/yolov8-CAFOS/inference/
+📸 Images with bounding boxes + class predictions
 
-Output:
-
-best.pt detection model (available upon request)
-
-YOLO prediction images with bounding boxes and confidence values
-
-Evaluation metrics: mAP, precision, recall
+📈 mAP, Precision, and Recall scores
 
 🖼️ Dataset
+📥 CAFO Training Dataset from Stanford RegLab
 
-This project uses the official CAFO Training Dataset from Stanford RegLab.
+🌍 Source: Aerial imagery from North Carolina
 
-Source: North Carolina aerial imagery
+📁 Size: 21,768+ high-resolution images
 
-Size: 21,768+ labeled aerial images
+📄 Annotations: Classification CSV + YOLO-style bounding boxes
 
-Format: JPEG images + CSV labels for classification & bounding boxes
 
 🧰 Technologies Used
 
@@ -93,6 +88,7 @@ Frameworks: TensorFlow, Keras, YOLOv8
 Libraries: OpenCV, NumPy, Pandas, Matplotlib, scikit-learn
 
 Tools: Google Colab, Jupyter Notebooks, Git
+
 
 ## 📊 Results Comparison
 
