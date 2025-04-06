@@ -94,31 +94,12 @@ Libraries: OpenCV, NumPy, Pandas, Matplotlib, scikit-learn
 
 Tools: Google Colab, Jupyter Notebooks, Git
 
-📊 Results Comparison
+## 📊 Results Comparison
 
-Model
-
-Approach
-
-Output Type
-
-Evaluation Metrics
-
-MobileNetV3
-
-Image Classification
-
-CAFO vs Non-CAFO
-
-Accuracy, AUC-ROC, F1-score, Recall
-
-YOLOv8
-
-Object Detection
-
-Bounding Boxes
-
-mAP, Precision, Recall, Confidence Score
+| Model       | Approach             | Output Type      | Evaluation Metrics                       |
+|-------------|----------------------|------------------|------------------------------------------|
+| MobileNetV3 | Image Classification | CAFO vs Non-CAFO | Accuracy, AUC-ROC, F1-score, Recall      |
+| YOLOv8      | Object Detection     | Bounding Boxes   | mAP, Precision, Recall, Confidence Score |
 
  
 
@@ -126,12 +107,8 @@ mAP, Precision, Recall, Confidence Score
 
 Below are examples of prediction results from the two models:
 
-MobileNetV3 Classification Output:
 
-<img src="https://github.com/cusagar/Project-Portfolio/blob/main/north-carolina_carteret_19027_287_6_1_0_18_-492_13402.jpeg?raw=true" width="150" alt="Umanandan Sagar Chukka">
- → classified as Poultry CAFOl
 
-## 🖼️ Sample Visuals
 
 **MobileNetV3 Classification Output:**
 
@@ -142,15 +119,6 @@ MobileNetV3 Classification Output:
 <img src="https://github.com/cusagar/Project-Portfolio/blob/main/CAFO-Detection/north-carolina_catawba_6427_287_6_1_0_17_-70_13765.jpeg?raw=true" width="400" alt="YOLOv8 Detection">
 
 
-<img src="https://github.com/cusagar/Project-Portfolio/blob/main/north-carolina_carteret_19027_287_6_1_0_18_-492_13402.jpeg?raw=true" width="150" alt="Umanandan Sagar Chukka"> → correctly identified as notcafo
-
-YOLOv8 Detection Output:
-
-Bounding boxes drawn with class labels such as poultry_cafo_f and swine_cafo_fl
-
-Confidence scores visualized on top of boxes
-
-(Sample images and full visualizations available on request.)
 
 🙌 Acknowledgements
 
@@ -160,5 +128,5 @@ Project developed as part of my graduate research in computer vision and deep le
 
 👤 Author
 
-Umanandan Sagar Chukka📧 Email: sagarus2022@gmail.com🔗 LinkedIn: [Insert your LinkedIn]💻 GitHub: [Insert your GitHub]
+Umanandan Sagar Chukka📧 Email: sagarus2022@gmail.com🔗 
 
