@@ -131,6 +131,15 @@ MobileNetV3 Classification Output:
 <img src="https://github.com/cusagar/Project-Portfolio/blob/main/north-carolina_carteret_19027_287_6_1_0_18_-492_13402.jpeg?raw=true" width="150" alt="Umanandan Sagar Chukka">
  → classified as Poultry CAFOl
 
+## 🖼️ Sample Visuals
+
+**MobileNetV3 Classification Output:**
+
+<img src="https://github.com/cusagar/Project-Portfolio/blob/main/CAFO-Detection/north-carolina_avery_187_287_6_1_0_17_-331_13881.jpeg?raw=true" width="400" alt="MobileNetV3 Prediction">
+
+**YOLOv8 Detection Output:**
+
+<img src="https://github.com/cusagar/Project-Portfolio/blob/main/CAFO-Detection/north-carolina_catawba_6427_287_6_1_0_17_-70_13765.jpeg?raw=true" width="400" alt="YOLOv8 Detection">
 
 
 <img src="https://github.com/cusagar/Project-Portfolio/blob/main/north-carolina_carteret_19027_287_6_1_0_18_-492_13402.jpeg?raw=true" width="150" alt="Umanandan Sagar Chukka"> → correctly identified as notcafo
