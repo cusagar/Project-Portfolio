@@ -10,7 +10,7 @@
 
 ---
 
-- 🎓 Currently pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
+- 🎓 **M.S. in Computer Science**, University of North Carolina Wilmington (Expected May 2025) – GPA: 3.8  
 - 👨‍🏫 Working as a **Teaching Assistant** (mentoring 30+ students)  
 - 🌱 Exploring **MLOps, Model Deployment, AWS Lambda, Docker**  
 - 💬 Ask me about **Python, PHP, TensorFlow, Cloud Architecture**  
