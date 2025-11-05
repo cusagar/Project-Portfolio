@@ -10,13 +10,17 @@
 
 ---
 
-- 🎓 Currently pursuing **M.S. in Computer Science at UNCW** (GPA: 3.8)  
-- 👨‍🏫 Working as a **Teaching Assistant** (mentoring 30+ students)  
-- 🌱 Exploring **MLOps, Model Deployment, AWS Lambda, Docker**  
-- 💬 Ask me about **Python, PHP, TensorFlow, Cloud Architecture**  
-- 📫 Reach me: [sagarus2022@gmail.com](mailto:sagarus2022@gmail.com)
+🎓 M.S. in Computer Science @ University of North Carolina Wilmington (GPA: 3.8)
+💼 Software Engineer | Backend & Cloud Developer | AI Integration Enthusiast
+☁️ AWS | Docker | Kubernetes | Terraform | CI/CD | Spring Boot | FastAPI | Secure Systems
+📫 Reach me at: umanandansagarc@gmail.com
 
 ---
+
+###🚀 About Me
+
+I’m a Software Engineer with 4 years of experience building scalable, secure, and cloud-native applications using Java (Spring Boot), Python (FastAPI), and AWS. I specialize in designing microservices, automating deployments. I enjoy working on high-performance distributed systems.
+
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20>
 
