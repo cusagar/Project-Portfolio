@@ -9,18 +9,20 @@
 <h3 align="center">🎓 CS Graduate Student | 💻 Full-Stack Dev | 🤖 Deep Learning Explorer | ☁️ Cloud Enthusiast</h3>
 
 ---
-
-🎓 M.S. in Computer Science @ University of North Carolina Wilmington (GPA: 3.8)
-💼 Software Engineer | Backend & Cloud Developer | AI Integration Enthusiast
-☁️ AWS | Docker | Kubernetes | Terraform | CI/CD | Spring Boot | FastAPI | Secure Systems
-📫 Reach me at: umanandansagarc@gmail.com
+🎓 **M.S. in Computer Science** @ *University of North Carolina Wilmington (GPA: 3.8)*  
+💼 **Software Engineer** | Backend & Cloud Developer | AI Integration Enthusiast  
+☁️ **AWS | Docker | Kubernetes | Terraform | CI/CD | Spring Boot | FastAPI | Secure Systems**  
+📫 Reach me at: **umanandansagarc@gmail.com**
 
 ---
 
-###🚀 About Me
+## 🚀 About Me
 
-I’m a Software Engineer with 4 years of experience building scalable, secure, and cloud-native applications using Java (Spring Boot), Python (FastAPI), and AWS. I specialize in designing microservices, automating deployments. I enjoy working on high-performance distributed systems.
+I’m a **Software Engineer** with 4 years of experience building **scalable, secure, and cloud-native applications** using Java (Spring Boot), Python (FastAPI), and AWS.  
+I specialize in designing **microservices**, automating deployments, and integrating AI-driven solutions.  
+I enjoy working on **high-performance distributed systems**, DevOps automation, and backend AI workflows.
 
+---
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=20>
 
